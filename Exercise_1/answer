@@ -1,0 +1,5 @@
+How does a program read the cvMat object, in particular, what is the
+order of the pixel structure?
+Anser: In the program, the cvMat represent a images bvy a Matrix. In the Matrix, every pixel is represented by the(rows,cloumns).
+And there is also a index following to represent the numbers of channels. Colorful RGB images have 3 channels, they are blue(2), 
+green(1) and red(0).
