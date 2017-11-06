@@ -1,0 +1,21 @@
+Values of pixel at (20,25) in RGB:
+R=225
+G=122
+B=106
+
+Values of pixel at (20,25) in YCbCr:
+Y=151
+Cb=181
+Cr=103
+
+Values of pixel at (20,25) in HSV:
+Hue=4
+Saturation=135
+Value=225
+
+Ranges of pixel values in each channel of each colorspaces:
+RGB : 0~255
+Y,U,V : 16~235,16~240,16~240
+H,S,V : 0~180,0~255,0~255
+L,A,B : 0~100,-127~127,-127~127
+C,M,Y,K : 0~100
