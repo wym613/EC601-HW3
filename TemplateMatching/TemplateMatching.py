@@ -48,7 +48,7 @@ for i in range(location[1],location[0]+temp.shape[1]):
         
 
 # Save the template matching result image (match)
-cv2.imwrite('match_img.jpg',match_img)
+cv2.imwrite('result_img.jpg',match_img)
 
 # Display the template image and the matching result
 cv2.imshow('TemplateImage', temp)
